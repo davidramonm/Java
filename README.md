@@ -2,7 +2,7 @@ Projetos desenvolvidos em aula - Universidade Paulista Unip
 
 Estacao: Aborda o desenvolvimento de um sistema integrado utilizando Arduino,
 sensores de temperatura, umidade e de gotas, um banco de dados e uma aplicação
-Java web. O objetivo foi monitorar variáveis meteorológicas e analisar sua influência no
+Java web. O objetivo é monitorar variáveis meteorológicas e analisar sua influência no
 modelo socioeconômico
 
 Fatorial: Uma calculadora para calcular o fatorial de determinado numero. O fatorial de um número natural n é o produto dos inteiros positivos menor ou igual a n. A calculadora fatorial pode ser usada para encontrar este número.
