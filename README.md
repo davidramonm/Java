@@ -1,4 +1,4 @@
-Projetos desenvolvidos em aula
+Projetos desenvolvidos em aula - Universidade Paulista Unip
 
 Estacao: Aborda o desenvolvimento de um sistema integrado utilizando Arduino,
 sensores de temperatura, umidade e de gotas, um banco de dados e uma aplicação
